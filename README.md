@@ -26,7 +26,7 @@ Bind your favorite key to functions:
 | Function         | Description                       |
 | :--------        | :----                             |
 | find-define      | Find definition in current window |
-| C-x find-define  | Find definition in other window   |
+| C-u find-define  | Find definition in other window   |
 | find-define-back | Back to position before jump      |
 |                  |                                   |
 

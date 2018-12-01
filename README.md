@@ -29,3 +29,6 @@ Bind your favorite key to functions:
 | C-x find-define  | Find definition in other window   |
 | find-define-back | Back to position before jump      |
 |                  |                                   |
+
+## Contribute
+Wecome to contribute more language backend with [PR](https://github.com/manateelazycat/find-define/pulls)
